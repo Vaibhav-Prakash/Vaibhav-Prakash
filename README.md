@@ -23,11 +23,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
- 
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:vaibhav.prakash.mail@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://www.linkedin.com/in/vaibhav1997/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)](https://twitter.com/mVaibhavPrakash)
-  
 </p>
 
 ⭐️ From [Vaibhav](https://github.com/Vaibhav-Prakash)
